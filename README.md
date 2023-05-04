@@ -12,7 +12,7 @@
 
 📅- Created - 2023-04-14
 
-⌨- Technologies Used - Html , animation
+⌨- Technologies Used - Html , animation , css , scss
 
 - Hooks Used : useState 
 
