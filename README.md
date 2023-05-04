@@ -2,9 +2,9 @@
 
 😊**A self-introduction page at the beginning of the user's entry to the site**
 
-![earth1](https://user-images.githubusercontent.com/126666369/236171436-5b5132c4-9687-4c83-b06c-9a64cf0e5e6c.jpg)
+![1](https://user-images.githubusercontent.com/126666369/236270359-18052898-c12a-48c7-987a-b52329358ff1.jpg)
 
-![earth2](https://user-images.githubusercontent.com/126666369/236171447-e2eadf89-4b9e-4d23-9e98-e7fc31d2ce4e.jpg)
+![2](https://user-images.githubusercontent.com/126666369/236270517-44ac481a-2aa8-4340-9acb-c73764525c98.jpg)
 
 - [Demo Project](https://melika-haqshenas-web.github.io/Building-Site/)
 
